@@ -9,28 +9,16 @@
 
     <TextView
         android:id="@+id/textView"
-<<<<<<< HEAD
-        android:layout_width="218dp"
-        android:layout_height="50dp"
-        android:layout_marginTop="4dp"
-        android:fontFamily="@font/bold"
-        android:text="@string/protegt"
-=======
         android:layout_width="143dp"
         android:layout_height="43dp"
         android:layout_marginTop="4dp"
         android:fontFamily="@font/bold"
         android:text="ProteGT"
->>>>>>> d723ffbb28e2daff897d2bc40e62cdc0962771ab
         android:textColor="@color/black"
         android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-<<<<<<< HEAD
-        app:layout_constraintHorizontal_bias="0.702"
-=======
         app:layout_constraintHorizontal_bias="0.522"
->>>>>>> d723ffbb28e2daff897d2bc40e62cdc0962771ab
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3"
         app:layout_constraintVertical_bias="0.0" />
@@ -43,11 +31,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginRight="8dp"
         android:fontFamily="@font/regular"
-<<<<<<< HEAD
-        android:text="@string/bienvenido_a"
-=======
         android:text="Bienvenido a"
->>>>>>> d723ffbb28e2daff897d2bc40e62cdc0962771ab
         android:textColor="@color/black"
         android:textSize="23sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -64,11 +48,7 @@
         android:layout_marginTop="16dp"
         android:background="@drawable/button"
         android:fontFamily="@font/regular"
-<<<<<<< HEAD
-        android:text="@string/empecemos"
-=======
         android:text="Empecemos"
->>>>>>> d723ffbb28e2daff897d2bc40e62cdc0962771ab
         android:textAllCaps="false"
         android:textColor="@color/black"
         android:textSize="18sp"
